@@ -1,4 +1,4 @@
 # Python-exercises
-
-1. Some of the code included in the NP lecture related to SMT solvers. 
-1. Note that sudoku-z3.py is not mine i don't remember where i found it. Most probably in the z3 docs.
+1. This repo contains the code we discuss in class. Most of it is not well documented so
+   refer to the lecture notes and come to class.
+1. The code related to SMT solver z3 is grouped together in the z3 folder. 
